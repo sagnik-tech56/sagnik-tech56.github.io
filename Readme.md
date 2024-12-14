@@ -28,7 +28,6 @@
 ✔️ About\
 ✔️ Interests\
 ✔️ Education\
-✔️ Online Certification\
 ✔️ Projects \
 ✔️ Skills \
 ✔️ Resume\
