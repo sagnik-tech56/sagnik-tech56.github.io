@@ -3,6 +3,7 @@
 
 ### Website Preview
 #### About Page
+
 <img src="website_images/AboutPage.png" width="900">
 
 
